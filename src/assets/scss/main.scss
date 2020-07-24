@@ -1,0 +1,14 @@
+@import '../../assets/scss/variables.scss';
+
+html {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+background-color: #e8ecec !important;
+font-size: 0.875rem;
+line-height: 1.333rem;
+font-family: 'Poppins', sans-serif !important;
+}
